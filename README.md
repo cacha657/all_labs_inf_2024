@@ -1,0 +1,1 @@
+to start the laboratory, you need to run the program and enter its number. to start the laboratory with additional tasks, you need to enter the number of the laboratory work twice after starting the program
