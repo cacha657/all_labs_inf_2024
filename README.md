@@ -1,1 +1,1 @@
-to start the laboratory, you need to run the program and enter its number. to start the laboratory with additional tasks, you need to enter the number of the laboratory work twice after starting the program
+To start the lab, you need to run the program and enter its number. To start a lab with additional tasks, you need to enter the lab number twice after starting the program. If the file is closed immediately after the program is executed, then run it through the terminal
